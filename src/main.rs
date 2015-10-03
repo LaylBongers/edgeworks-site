@@ -10,6 +10,6 @@ fn main() {
             "IT'S ALIIIIIIVE!"
         }
     });
-
-    server.listen("**:80");
+    
+    server.listen("0.0.0.0:80");
 }
