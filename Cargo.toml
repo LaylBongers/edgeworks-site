@@ -5,3 +5,7 @@ authors = ["Layl <layl@edgeworksgames.com>"]
 
 [dependencies]
 nickel = "0.7.0"
+
+[dependencies.hyper]
+version = "=0.6"
+default-features = false
